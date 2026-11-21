@@ -18,8 +18,7 @@
 
 *Languages with regular use and greater experience:* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="24" align="center" alt="Java" /> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="24" align="center" alt="Python" />
 
-*Logic programming:*
-Prolog
+*Logic programming:* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prolog/prolog-original.svg" height="24" align="center" alt="Prolog" />
 
 *Working environment:* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fedora/fedora-original.svg" height="24" align="center" alt="Fedora" /> Fedora Linux · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" height="24" align="center" alt="Bash / Terminal" /> Linux Terminal / CLI
 
