@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.google.com/maps/place/A+Coru%C3%B1a"><img src="https://img.shields.io/badge/📍_A_Coruña-4c1d95?style=for-the-badge"/></a>
+  <a href="https://www.google.com/maps/place/Ourense"><img src="https://img.shields.io/badge/📍_Ourense-4c1d95?style=for-the-badge"/></a>
   <a href="https://linkedin.com/in/YOUR_PROFILE"><img src="https://img.shields.io/badge/LinkedIn-4c1d95?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:rodrizache@gmail.com"><img src="https://img.shields.io/badge/Gmail-4c1d95?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
@@ -21,7 +21,9 @@
 *Logic programming:*
 Prolog
 
-*Learning independently:* <img src="https://user-images.githubusercontent.com/17773218/56295546-32a81200-60ea-11e9-8761-0b726b20fd51.png" height="24" align="center" alt="C" />
+*Systems & Environments:* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="24" align="center" alt="Linux" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" height="24" align="center" alt="Bash / Terminal" /> (Linux Terminal / CLI)
+
+*Learning independently:* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="24" align="center" alt="Git" />
 
 ## GitHub Stats
 
@@ -40,8 +42,5 @@ Prolog
   </tr>
 </table>
 
-## Featured Projects
-- **[AI-Project-Placeholder](https://github.com/RodrigoAlvZa)**: Intelligent systems development and logic-based reasoning.
-
 ## Currently
-Working on: AI models & algorithms · Learning: C programming
+Working on: AI models & algorithms · Learning: Git & version control
