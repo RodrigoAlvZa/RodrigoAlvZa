@@ -16,13 +16,13 @@
 
 ## Languages and Tools
 
-*Languages with regular use and greater experience:* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="24" align="center" alt="Java" /> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="24" align="center" alt="Python" />
+*Languages with regular use and greater experience:* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="24" align="center" alt="Java" /> Java · <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="24" align="center" alt="Python" /> Python
 
-*Logic programming:* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prolog/prolog-original.svg" height="24" align="center" alt="Prolog" />
+*Logic programming:* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prolog/prolog-original.svg" height="24" align="center" alt="Prolog" /> Prolog
 
 *Working environment:* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fedora/fedora-original.svg" height="24" align="center" alt="Fedora" /> Fedora Linux · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" height="24" align="center" alt="Bash / Terminal" /> Linux Terminal / CLI
 
-*Learning independently:* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="24" align="center" alt="Git" />
+*Learning independently:* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="24" align="center" alt="Git" /> Git
 
 ## GitHub Stats
 
