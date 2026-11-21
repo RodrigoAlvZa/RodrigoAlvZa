@@ -21,7 +21,7 @@
 *Logic programming:*
 Prolog
 
-*Systems & Environments:* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="24" align="center" alt="Linux" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" height="24" align="center" alt="Bash / Terminal" /> (Linux Terminal / CLI)
+*Working environment:* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fedora/fedora-original.svg" height="24" align="center" alt="Fedora" /> Fedora Linux · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" height="24" align="center" alt="Bash / Terminal" /> Linux Terminal / CLI
 
 *Learning independently:* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="24" align="center" alt="Git" />
 
