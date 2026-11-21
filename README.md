@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:05050a,100:4c1d95&height=160&section=header&text=Rodrigo%20Álvarez&fontSize=42&fontColor=8b5cf6" width="100%"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=8b5cf6&center=true&vCenter=true&width=750&height=40&lines=%3E+AI+Engineering+Student;%3E+ESEI+-+Escola+Superior+de+Enxe%C3%B1ar%C3%ADa+Inform%C3%A1tica+%7C+2nd+year" alt="AI Engineering Student at ESEI - Escola Superior de Enxeñaría Informática"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=8b5cf6&center=true&vCenter=true&width=820&height=40&lines=%3E+AI+Engineering+Student;%3E+ESEI+-+Escola+Superior+de+Enxe%C3%B1ar%C3%ADa+Inform%C3%A1tica+%7C+2nd+year" alt="AI Engineering Student at ESEI - Escola Superior de Enxeñaría Informática"/>
 </div>
 
 <p align="center">
